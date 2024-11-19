@@ -98,6 +98,8 @@ namespace Empresa_de_Telefone
 			this.textBox8 = new System.Windows.Forms.TextBox();
 			this.textBox10 = new System.Windows.Forms.TextBox();
 			this.button6 = new System.Windows.Forms.Button();
+			this.label14 = new System.Windows.Forms.Label();
+			this.textBox11 = new System.Windows.Forms.TextBox();
 			this.SuspendLayout();
 			// 
 			// button1
@@ -302,13 +304,14 @@ namespace Empresa_de_Telefone
 			this.button5.BackColor = System.Drawing.Color.SteelBlue;
 			this.button5.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.button5.ForeColor = System.Drawing.Color.White;
-			this.button5.Location = new System.Drawing.Point(475, 311);
+			this.button5.Location = new System.Drawing.Point(415, 311);
 			this.button5.Margin = new System.Windows.Forms.Padding(2);
 			this.button5.Name = "button5";
 			this.button5.Size = new System.Drawing.Size(98, 40);
 			this.button5.TabIndex = 19;
 			this.button5.Text = "Consultar";
 			this.button5.UseVisualStyleBackColor = false;
+			this.button5.Click += new System.EventHandler(this.Button5Click);
 			// 
 			// label12
 			// 
@@ -442,12 +445,34 @@ namespace Empresa_de_Telefone
 			this.button6.Text = "BUSCAR ID";
 			this.button6.UseVisualStyleBackColor = false;
 			// 
+			// label14
+			// 
+			this.label14.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.label14.Location = new System.Drawing.Point(517, 305);
+			this.label14.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+			this.label14.Name = "label14";
+			this.label14.Size = new System.Drawing.Size(67, 16);
+			this.label14.TabIndex = 42;
+			this.label14.Text = "Media:";
+			// 
+			// textBox11
+			// 
+			this.textBox11.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.textBox11.Location = new System.Drawing.Point(517, 325);
+			this.textBox11.Margin = new System.Windows.Forms.Padding(2);
+			this.textBox11.Name = "textBox11";
+			this.textBox11.ReadOnly = true;
+			this.textBox11.Size = new System.Drawing.Size(109, 26);
+			this.textBox11.TabIndex = 41;
+			// 
 			// MainForm
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
 			this.BackColor = System.Drawing.SystemColors.ActiveCaption;
 			this.ClientSize = new System.Drawing.Size(832, 443);
+			this.Controls.Add(this.label14);
+			this.Controls.Add(this.textBox11);
 			this.Controls.Add(this.button6);
 			this.Controls.Add(this.label8);
 			this.Controls.Add(this.textBox5);
@@ -484,7 +509,8 @@ namespace Empresa_de_Telefone
 			this.Text = "Empresa_de_Telefone";
 			this.ResumeLayout(false);
 			this.PerformLayout();
-
 		}
+		private System.Windows.Forms.TextBox textBox11;
+		private System.Windows.Forms.Label label14;
 	}
 }

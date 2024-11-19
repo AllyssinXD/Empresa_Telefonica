@@ -14,3 +14,11 @@ C:\Users\Alisson\Documents\Empresa_de_Telefone\Empresa_de_Telefone\obj\Debug\Emp
 C:\Users\Alisson\Documents\Empresa_de_Telefone\Empresa_de_Telefone\obj\Debug\Empresa_de_Telefone.csproj.GenerateResource.Cache
 C:\Users\Alisson\Documents\Empresa_de_Telefone\Empresa_de_Telefone\obj\Debug\Empresa_de_Telefone.exe
 C:\Users\Alisson\Documents\Empresa_de_Telefone\Empresa_de_Telefone\obj\Debug\Empresa_de_Telefone.pdb
+E:\O OURO TA AQUI PAE\Projetos Programação\Empresa_de_Telefone\Empresa_de_Telefone\bin\Debug\Empresa_de_Telefone.exe.config
+E:\O OURO TA AQUI PAE\Projetos Programação\Empresa_de_Telefone\Empresa_de_Telefone\bin\Debug\Empresa_de_Telefone.exe
+E:\O OURO TA AQUI PAE\Projetos Programação\Empresa_de_Telefone\Empresa_de_Telefone\bin\Debug\Empresa_de_Telefone.pdb
+E:\O OURO TA AQUI PAE\Projetos Programação\Empresa_de_Telefone\Empresa_de_Telefone\obj\Debug\Empresa_de_Telefone.csprojResolveAssemblyReference.cache
+E:\O OURO TA AQUI PAE\Projetos Programação\Empresa_de_Telefone\Empresa_de_Telefone\obj\Debug\Empresa_de_Telefone.MainForm.resources
+E:\O OURO TA AQUI PAE\Projetos Programação\Empresa_de_Telefone\Empresa_de_Telefone\obj\Debug\Empresa_de_Telefone.csproj.GenerateResource.Cache
+E:\O OURO TA AQUI PAE\Projetos Programação\Empresa_de_Telefone\Empresa_de_Telefone\obj\Debug\Empresa_de_Telefone.exe
+E:\O OURO TA AQUI PAE\Projetos Programação\Empresa_de_Telefone\Empresa_de_Telefone\obj\Debug\Empresa_de_Telefone.pdb

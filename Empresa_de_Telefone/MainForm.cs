@@ -50,5 +50,31 @@ namespace Empresa_de_Telefone
 		{
 			richTextBox1.Clear();
 		}
+		
+		void Button5Click(object sender, EventArgs e)
+		{
+			float acumulador = 0.0f;
+			for(int i=0;i<richTextBox1.Lines.Length;i++){
+				if(!(richTextBox1.Lines[i] == "")){
+					string[] partes =  richTextBox1.Lines[i].Split('|');
+					acumulador += float.Parse(partes[3].Replace(" ", ""));
+				}
+			}
+			
+			float media = acumulador / (richTextBox1.Lines.Length - 1);
+		
+			textBox11.Text = media.ToString();
+			
+			for(int i=0;i<richTextBox1.Lines.Length;i++){
+				if(!(richTextBox1.Lines[i] == "")){
+					string[] partes =  richTextBox1.Lines[i].Split('|');
+					float valor = float.Parse(partes[3].Replace(" ", ""));
+					if(valor > media){
+						richTextBox2.Text += String.Format("{0}|{1}|({2}|{3}\n", partes[0], partes[1], partes[2], partes[3]);
+					}
+				}
+			}
+		}
+		
 	}
 }
