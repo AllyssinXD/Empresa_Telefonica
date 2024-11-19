@@ -6,3 +6,11 @@ C:\Users\aluno\Documents\SharpDevelop Projects\Empresa_de_Telefone\Empresa_de_Te
 C:\Users\aluno\Documents\SharpDevelop Projects\Empresa_de_Telefone\Empresa_de_Telefone\obj\Debug\Empresa_de_Telefone.csproj.GenerateResource.Cache
 C:\Users\aluno\Documents\SharpDevelop Projects\Empresa_de_Telefone\Empresa_de_Telefone\obj\Debug\Empresa_de_Telefone.exe
 C:\Users\aluno\Documents\SharpDevelop Projects\Empresa_de_Telefone\Empresa_de_Telefone\obj\Debug\Empresa_de_Telefone.pdb
+C:\Users\Alisson\Documents\Empresa_de_Telefone\Empresa_de_Telefone\bin\Debug\Empresa_de_Telefone.exe.config
+C:\Users\Alisson\Documents\Empresa_de_Telefone\Empresa_de_Telefone\bin\Debug\Empresa_de_Telefone.exe
+C:\Users\Alisson\Documents\Empresa_de_Telefone\Empresa_de_Telefone\bin\Debug\Empresa_de_Telefone.pdb
+C:\Users\Alisson\Documents\Empresa_de_Telefone\Empresa_de_Telefone\obj\Debug\Empresa_de_Telefone.csprojResolveAssemblyReference.cache
+C:\Users\Alisson\Documents\Empresa_de_Telefone\Empresa_de_Telefone\obj\Debug\Empresa_de_Telefone.MainForm.resources
+C:\Users\Alisson\Documents\Empresa_de_Telefone\Empresa_de_Telefone\obj\Debug\Empresa_de_Telefone.csproj.GenerateResource.Cache
+C:\Users\Alisson\Documents\Empresa_de_Telefone\Empresa_de_Telefone\obj\Debug\Empresa_de_Telefone.exe
+C:\Users\Alisson\Documents\Empresa_de_Telefone\Empresa_de_Telefone\obj\Debug\Empresa_de_Telefone.pdb
